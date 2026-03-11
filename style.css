@@ -1,0 +1,15 @@
+/*body*/
+body{
+background-color:#aaaaaa;
+}
+label{
+color:red;
+font-size:35px;
+}
+img{
+border-radius:75px 50px;
+box-shadow:6px 3px 17px red;
+}
+img:focus{
+box-shadow:6px 3px 17px green;
+}
